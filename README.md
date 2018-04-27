@@ -1,7 +1,7 @@
 # Simpletron
 
-This is a simple machine language program according to the final programming problem in the book Deitel C.
-This enables you write simple programs in sort of like a an assembly-like language.
+This is a C program according to the final programming problem in the book Deitel C.
+This enables you write simple programs in sort of like a an assembly-like language called simple machine language (SML).
 
 # sml_program (SML)
 This contains the simpletron itself at its core.
